@@ -1,2 +1,3 @@
-# awesome-resources
-Awesome resources, awesome references, etc. for various topics/concepts/etc. relevant to our org.
+ # README
+
+ - [A “Wordle” on Test Driven Development in Vue.js](https://vueschool.io/courses/a-wordle-on-test-driven-development-in-vue-js)
