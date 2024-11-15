@@ -2,6 +2,7 @@
 
 ## vue / nuxt
 - [The Complete Guide to Data Fetching in Nuxt](https://vueschool.io/courses/the-complete-guide-to-data-fetching-in-nuxt)
+- [Nuxt Tip: Validate Data in Your Server Routes](https://mokkapps.de/vue-tips/validate-data-in-your-nuxt-server-routes)
 
 
 ### tests
