@@ -25,6 +25,7 @@
 ## Vue / Nuxt
 - [The Complete Guide to Data Fetching in Nuxt](https://vueschool.io/courses/the-complete-guide-to-data-fetching-in-nuxt)
 - [Nuxt Tip: Validate Data in Your Server Routes](https://mokkapps.de/vue-tips/validate-data-in-your-nuxt-server-routes)
+- [The Lazy component prefix and when to use it (dynamic / lazy load componens)](https://www.youtube.com/watch?v=YbAQC1yetUM&list=PL06MUQt-_wls2sirXbt919cIbGvKv6k5Q&index=3&ab_channel=AlexanderLichter)
 
 ### Performance
 - [My web performance journey with Nuxt, Storyblok & Netlify](https://www.dawntraoz.com/blog/my-web-performance-journey-with-nuxt-storyblok-netlify/)
