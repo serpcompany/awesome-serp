@@ -13,7 +13,7 @@
 
 ### Videos
 - [Unit Testing Vue Apps: Tips, Tricks, and Best Practices](https://www.youtube.com/watch?v=iD_d3jTJxxU&ab_channel=VueMastery)
-
+- [Monorepos: How to structure a JS/TS monorepo (Turborepo)](https://www.youtube.com/watch?v=TeOSuGRHq7k&ab_channel=AnthonyShew)
 
 ### References/Resources
 - [Nuxt repos with tests](https://github.com/stars/devinschumacher/lists/repos-with-tests)
