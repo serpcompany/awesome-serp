@@ -26,9 +26,13 @@
 
 
 ## Vue / Nuxt
+
+- course: [Clean Components Toolkit](https://michaelnthiessen.com/courses/clean-components-toolkit)
+
 - [The Complete Guide to Data Fetching in Nuxt](https://vueschool.io/courses/the-complete-guide-to-data-fetching-in-nuxt)
 - [Nuxt Tip: Validate Data in Your Server Routes](https://mokkapps.de/vue-tips/validate-data-in-your-nuxt-server-routes)
 - [Composable Design Patterns in Vue](https://michaelnthiessen.com/composable-patterns-in-vue)
+
 
 ### Performance
 - [The Lazy component prefix and when to use it (dynamic / lazy load componens)](https://www.youtube.com/watch?v=YbAQC1yetUM&list=PL06MUQt-_wls2sirXbt919cIbGvKv6k5Q&index=3&ab_channel=AlexanderLichter)
