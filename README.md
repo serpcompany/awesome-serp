@@ -7,6 +7,8 @@
 
 ## Testing
 
+- [A good example showing the benefit of unit tests even on very simple things](https://www.udemy.com/course/javascript-unit-testing-the-practical-guide/learn/lecture/31877852#overview)
+
 ### Books
 - [The Art of Unit Testing (book)](https://github.com/dashpradeep99/https-github.com-miguellgt-books/blob/master/tdd%20%2B%20bdd/the-art-of-unit-testing.pdf)
 
