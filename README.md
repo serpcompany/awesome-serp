@@ -5,12 +5,16 @@
 ### Books
 - [Refactoring UI](https://drive.google.com/file/d/1QAH8hWu4nTJRcVaDwdXz_zsghG5-JGzC/view?usp=sharing)
 
-## Testing
 
+---
+
+## Testing
 - [A good example showing the benefit of unit tests even on very simple things](https://www.udemy.com/course/javascript-unit-testing-the-practical-guide/learn/lecture/31877852#overview)
+
 
 ### Books
 - [The Art of Unit Testing (book)](https://github.com/dashpradeep99/https-github.com-miguellgt-books/blob/master/tdd%20%2B%20bdd/the-art-of-unit-testing.pdf)
+
 
 ### Courses
 - [A “Wordle” on Test Driven Development in Vue.js](https://vueschool.io/courses/a-wordle-on-test-driven-development-in-vue-js)
@@ -27,11 +31,14 @@
 - [Example tests from the video presentation "Unit Testing Vue Apps"](https://github.com/bethqiang/vueconf-2022-demo-app/tree/main/src)
 
 
+---
+
 ## Vue / Nuxt
-
 - course: [Clean Components Toolkit](https://michaelnthiessen.com/courses/clean-components-toolkit)
-- course: [Error Handling](https://vueschool.io/lessons/intro-why-error-handling-matters-for-developers-and-users)
 
+### Error Handling
+- https://vueschool.io/lessons/intro-why-error-handling-matters-for-developers-and-users
+- [Custom Error Pages in Nuxt 3](https://masteringnuxt.com/blog/custom-error-pages-in-nuxt3)
 
 - [The Complete Guide to Data Fetching in Nuxt](https://vueschool.io/courses/the-complete-guide-to-data-fetching-in-nuxt)
 - [Nuxt Tip: Validate Data in Your Server Routes](https://mokkapps.de/vue-tips/validate-data-in-your-nuxt-server-routes)
