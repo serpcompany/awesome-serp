@@ -64,4 +64,4 @@
   - [video](https://www.udemy.com/course/monorepos-a-beginners-guide/learn/lecture/23143290#overview)
   - [npm docs](https://docs.npmjs.com/cli/v6/configuring-npm/package-json#bin)
 - [How to debug typescript errors [debugging]](https://www.zipy.ai/blog/typescript-errors)
-
+- [Typescript error codes guide](https://typescript.tv/errors/)
