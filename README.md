@@ -6,7 +6,6 @@
 - [Refactoring UI](https://drive.google.com/file/d/1QAH8hWu4nTJRcVaDwdXz_zsghG5-JGzC/view?usp=sharing)
 
 
----
 
 ## Testing
 - [A good example showing the benefit of unit tests even on very simple things](https://www.udemy.com/course/javascript-unit-testing-the-practical-guide/learn/lecture/31877852#overview)
@@ -30,8 +29,6 @@
 - [Nuxt repos with tests](https://github.com/stars/devinschumacher/lists/repos-with-tests)
 - [Example tests from the video presentation "Unit Testing Vue Apps"](https://github.com/bethqiang/vueconf-2022-demo-app/tree/main/src)
 
-
----
 
 ## Vue / Nuxt
 - course: [Clean Components Toolkit](https://michaelnthiessen.com/courses/clean-components-toolkit)
@@ -65,3 +62,5 @@
   - [npm docs](https://docs.npmjs.com/cli/v6/configuring-npm/package-json#bin)
 - [How to debug typescript errors [debugging]](https://www.zipy.ai/blog/typescript-errors)
 - [Typescript error codes guide](https://typescript.tv/errors/)
+- [Typescript TV (learning typescript youtube videos)](https://www.youtube.com/@TypeScriptTV)
+
