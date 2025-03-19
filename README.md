@@ -9,6 +9,14 @@
 
 ## Testing
 - [A good example showing the benefit of unit tests even on very simple things](https://www.udemy.com/course/javascript-unit-testing-the-practical-guide/learn/lecture/31877852#overview)
+- [course: Vue Masterclass (Covers Vue 2 and 3)](https://www.udemy.com/course/vue-masterclass/learn/lecture/30753780#overview)
+- [course: Rapid Testing with Vitest: Master Unit Testing & Mocking](https://vueschool.io/lessons/introduction-to-vitest)
+- [course: Vue with Test Driven Development](https://www.udemy.com/course/vue-with-test-driven-development/learn/lecture/41625858#overview)
+- [course: React Testing Library with Jest / Vitest](https://www.udemy.com/course/react-testing-library/learn/lecture/24418712#overview)
+- [course: Playwright: Web Automation Testing From Zero to Hero](https://www.udemy.com/course/playwright-from-zero-to-hero/learn/lecture/39698248?start=0#overview)
+
+
+
 
 
 ### Books
