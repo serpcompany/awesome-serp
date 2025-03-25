@@ -40,6 +40,7 @@
 
 ## Vue / Nuxt
 - course: [Clean Components Toolkit](https://michaelnthiessen.com/courses/clean-components-toolkit)
+- https://www.nuppets.dev/snippets
 
 ### Error Handling
 - https://vueschool.io/lessons/intro-why-error-handling-matters-for-developers-and-users
