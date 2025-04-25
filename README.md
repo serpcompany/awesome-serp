@@ -1,8 +1,14 @@
 # README
 
-## Design
+## Nuxt Experts / Nuxt people to hire
 
-### Books
+- Nuxters: https://nuxters.nuxt.com/
+
+
+
+
+
+## Design Books
 - [Refactoring UI](https://drive.google.com/file/d/1QAH8hWu4nTJRcVaDwdXz_zsghG5-JGzC/view?usp=sharing)
 
 
