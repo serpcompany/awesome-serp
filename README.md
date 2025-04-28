@@ -3,7 +3,7 @@
 ## Nuxt Experts / Nuxt people to hire
 
 - Nuxters: https://nuxters.nuxt.com/
-
+- optimize vs code speed performance - https://vscode.one/make-vscode-faster/, https://dev.to/azure/is-your-vs-code-extension-slow-heres-how-to-speed-it-up-4d66
 
 
 
