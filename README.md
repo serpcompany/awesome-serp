@@ -28,7 +28,7 @@
 
 ## typescript
 - https://www.totaltypescript.com/tutorials/beginners-typescript
-- https://www.totaltypescript.com/tutorials/solving-typescript-errors/
+- [Solving TypeScript Errors](https://www.totaltypescript.com/tutorials/solving-typescript-errors/)
 
 
 ## vue / nuxt
