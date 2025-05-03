@@ -9,7 +9,7 @@
 - Nuxters: https://nuxters.nuxt.com/
 
 
-## Testing Resources
+## testing
 - [A good example showing the benefit of unit tests even on very simple things](https://www.udemy.com/course/javascript-unit-testing-the-practical-guide/learn/lecture/31877852#overview)
 - [course: Vue Masterclass (Covers Vue 2 and 3)](https://www.udemy.com/course/vue-masterclass/learn/lecture/30753780#overview)
 - [course: Rapid Testing with Vitest: Master Unit Testing & Mocking](https://vueschool.io/lessons/introduction-to-vitest)
@@ -25,6 +25,11 @@
 - [Example tests from the video presentation "Unit Testing Vue Apps"](https://github.com/bethqiang/vueconf-2022-demo-app/tree/main/src)
 - [Mocking APIs with Playwright - Enterprise UI Development Testing](https://www.dailymotion.com/video/k3nxSat33amYmSCYB7W)
 
+
+## typescript
+- [Solving TypeScript Errors](https://www.totaltypescript.com/tutorials/solving-typescript-errors/)
+- https://www.totaltypescript.com/tutorials/beginners-typescript
+
 ## vue / nuxt
 - [Nuxt Clean Components Toolkit](https://michaelnthiessen.com/courses/clean-components-toolkit)
 - [Nuxt Code Snippets (nuppets)](https://github.com/serpcompany/nuxt-code-snippets)
@@ -33,7 +38,6 @@
 - [The Complete Guide to Data Fetching in Nuxt](https://vueschool.io/courses/the-complete-guide-to-data-fetching-in-nuxt)
 - [Nuxt Tip: Validate Data in Your Server Routes](https://mokkapps.de/vue-tips/validate-data-in-your-nuxt-server-routes)
 - [Composable Design Patterns in Vue](https://michaelnthiessen.com/composable-patterns-in-vue)
-
 
 ### vue/nuxt performance
 - [The Lazy component prefix and when to use it (dynamic / lazy load componens)](https://www.youtube.com/watch?v=YbAQC1yetUM&list=PL06MUQt-_wls2sirXbt919cIbGvKv6k5Q&index=3&ab_channel=AlexanderLichter)
@@ -47,6 +51,13 @@
 ## VSCode
 - https://vscode.one/make-vscode-faster/
 - https://dev.to/azure/is-your-vs-code-extension-slow-heres-how-to-speed-it-up-4d66
+- [TypeScript Pro Complete](https://www.totaltypescript.com/workshops)
+- https://www.totaltypescript.com/typescript-learning-path
+
+
+## zod
+- https://www.totaltypescript.com/tutorials/zod
+
 
 ## Misc
 
