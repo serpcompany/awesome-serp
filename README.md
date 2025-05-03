@@ -23,22 +23,19 @@
 - [7 ways to make your Vue unit tests better by Natalia Tepluhina](https://www.youtube.com/watch?v=L_BK8zXGdBM)
 - [Nuxt repos with tests](https://github.com/stars/devinschumacher/lists/repos-with-tests)
 - [Example tests from the video presentation "Unit Testing Vue Apps"](https://github.com/bethqiang/vueconf-2022-demo-app/tree/main/src)
+- [Mocking APIs with Playwright - Enterprise UI Development Testing](https://www.dailymotion.com/video/k3nxSat33amYmSCYB7W)
 
-
-## Vue / Nuxt
+## vue / nuxt
 - [Nuxt Clean Components Toolkit](https://michaelnthiessen.com/courses/clean-components-toolkit)
 - [Nuxt Code Snippets (nuppets)](https://github.com/serpcompany/nuxt-code-snippets)
-
-### Error Handling
 - https://vueschool.io/lessons/intro-why-error-handling-matters-for-developers-and-users
 - [Custom Error Pages in Nuxt 3](https://masteringnuxt.com/blog/custom-error-pages-in-nuxt3)
-
 - [The Complete Guide to Data Fetching in Nuxt](https://vueschool.io/courses/the-complete-guide-to-data-fetching-in-nuxt)
 - [Nuxt Tip: Validate Data in Your Server Routes](https://mokkapps.de/vue-tips/validate-data-in-your-nuxt-server-routes)
 - [Composable Design Patterns in Vue](https://michaelnthiessen.com/composable-patterns-in-vue)
 
 
-### Performance
+### vue/nuxt performance
 - [The Lazy component prefix and when to use it (dynamic / lazy load componens)](https://www.youtube.com/watch?v=YbAQC1yetUM&list=PL06MUQt-_wls2sirXbt919cIbGvKv6k5Q&index=3&ab_channel=AlexanderLichter)
 - [Reduce the size of your payload and __NUXT__ ](https://www.youtube.com/watch?v=laRJNkG_wls&list=PL06MUQt-_wls2sirXbt919cIbGvKv6k5Q&index=1&ab_channel=AlexanderLichter)
 - [Speed up your build time with sharedPrerenderData](https://www.youtube.com/watch?v=1jUupYHVvrU&list=PL06MUQt-_wls2sirXbt919cIbGvKv6k5Q&index=3&ab_channel=AlexanderLichter)
