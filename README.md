@@ -27,8 +27,9 @@
 
 
 ## typescript
-- [Solving TypeScript Errors](https://www.totaltypescript.com/tutorials/solving-typescript-errors/)
 - https://www.totaltypescript.com/tutorials/beginners-typescript
+- https://www.totaltypescript.com/tutorials/solving-typescript-errors/
+
 
 ## vue / nuxt
 - [Nuxt Clean Components Toolkit](https://michaelnthiessen.com/courses/clean-components-toolkit)
