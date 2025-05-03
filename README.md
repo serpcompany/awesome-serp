@@ -1,52 +1,33 @@
 # README
 
-## Nuxt Experts / Nuxt people to hire
 
-- Nuxters: https://nuxters.nuxt.com/
-- optimize vs code speed performance - https://vscode.one/make-vscode-faster/, https://dev.to/azure/is-your-vs-code-extension-slow-heres-how-to-speed-it-up-4d66
-
-
-
-
-## Design Books
+## Design
 - [Refactoring UI](https://drive.google.com/file/d/1QAH8hWu4nTJRcVaDwdXz_zsghG5-JGzC/view?usp=sharing)
 
 
+## Freelancers
+- Nuxters: https://nuxters.nuxt.com/
 
-## Testing
+
+## Testing Resources
 - [A good example showing the benefit of unit tests even on very simple things](https://www.udemy.com/course/javascript-unit-testing-the-practical-guide/learn/lecture/31877852#overview)
 - [course: Vue Masterclass (Covers Vue 2 and 3)](https://www.udemy.com/course/vue-masterclass/learn/lecture/30753780#overview)
 - [course: Rapid Testing with Vitest: Master Unit Testing & Mocking](https://vueschool.io/lessons/introduction-to-vitest)
 - [course: Vue with Test Driven Development](https://www.udemy.com/course/vue-with-test-driven-development/learn/lecture/41625858#overview)
 - [course: React Testing Library with Jest / Vitest](https://www.udemy.com/course/react-testing-library/learn/lecture/24418712#overview)
 - [course: Playwright: Web Automation Testing From Zero to Hero](https://www.udemy.com/course/playwright-from-zero-to-hero/learn/lecture/39698248?start=0#overview)
-
-
-
-
-
-### Books
-- [The Art of Unit Testing (book)](https://github.com/dashpradeep99/https-github.com-miguellgt-books/blob/master/tdd%20%2B%20bdd/the-art-of-unit-testing.pdf)
-
-
-### Courses
+- [book: The Art of Unit Testing (book)](https://github.com/dashpradeep99/https-github.com-miguellgt-books/blob/master/tdd%20%2B%20bdd/the-art-of-unit-testing.pdf)
 - [A “Wordle” on Test Driven Development in Vue.js](https://vueschool.io/courses/a-wordle-on-test-driven-development-in-vue-js)
 - [Vue with Test Driven Development](https://www.udemy.com/course/vue-with-test-driven-development/)
-
-
-### Videos
 - [Unit Testing Vue Apps: Tips, Tricks, and Best Practices](https://www.youtube.com/watch?v=iD_d3jTJxxU&ab_channel=VueMastery)
 - [7 ways to make your Vue unit tests better by Natalia Tepluhina](https://www.youtube.com/watch?v=L_BK8zXGdBM)
-
-
-### References/Resources
 - [Nuxt repos with tests](https://github.com/stars/devinschumacher/lists/repos-with-tests)
 - [Example tests from the video presentation "Unit Testing Vue Apps"](https://github.com/bethqiang/vueconf-2022-demo-app/tree/main/src)
 
 
 ## Vue / Nuxt
-- course: [Clean Components Toolkit](https://michaelnthiessen.com/courses/clean-components-toolkit)
-- https://www.nuppets.dev/snippets
+- [Nuxt Clean Components Toolkit](https://michaelnthiessen.com/courses/clean-components-toolkit)
+- [Nuxt Code Snippets (nuppets)](https://github.com/serpcompany/nuxt-code-snippets)
 
 ### Error Handling
 - https://vueschool.io/lessons/intro-why-error-handling-matters-for-developers-and-users
@@ -66,7 +47,9 @@
 - [Testing components in Nuxt, extract conditional patterns, and more](https://michaelnthiessen.com/weekly-192-november-20)
 
 
----
+## VSCode
+- https://vscode.one/make-vscode-faster/
+- https://dev.to/azure/is-your-vs-code-extension-slow-heres-how-to-speed-it-up-4d66
 
 ## Misc
 
