@@ -26,7 +26,7 @@ Awesome resources for things related to our organization.
 [ai-agents]: https://github.com/serpcompany/awesome-serp/blob/main/ai-agents.md
 [ai-coding]: https://github.com/serpcompany/awesome-serp/blob/main/ai-coding.md
 [freelancers]: https://github.com/serpcompany/awesome-serp/blob/main/freelancers.md
-[software-testing]: https://github.com/serpcompany/awesome-serp/blob/main/software-testing.md
+[software-testing]: https://github.com/serpcompany/awesome-serp/blob/main/testing.md
 [typescript]: https://github.com/serpcompany/awesome-serp/blob/main/typescript.md
 [vscode]: https://github.com/serpcompany/awesome-serp/blob/main/vscode.md
 [vue-nuxt]: https://github.com/serpcompany/awesome-serp/blob/main/vue-nuxt.md
