@@ -4,22 +4,22 @@
 - [Nuxt Clean Components Toolkit](https://michaelnthiessen.com/courses/clean-components-toolkit)
 
 
+## Composables
+- [Composable Design Patterns in Vue](https://michaelnthiessen.com/composable-patterns-in-vue)
+
+
 ## Data
 - [The Complete Guide to Data Fetching in Nuxt](https://vueschool.io/courses/the-complete-guide-to-data-fetching-in-nuxt)
 - [Nuxt Tip: Validate Data in Your Server Routes](https://mokkapps.de/vue-tips/validate-data-in-your-nuxt-server-routes)
 
 
+## DX
+- [Nuxt Code Snippets (nuppets)](https://github.com/serpcompany/nuxt-code-snippets)
+
+
 ## Error Handling
 - [Why Error Handling Matters](https://vueschool.io/lessons/intro-why-error-handling-matters-for-developers-and-users)
 - [Custom Error Pages in Nuxt 3](https://masteringnuxt.com/blog/custom-error-pages-in-nuxt3)
-
-
-## Composables
-- [Composable Design Patterns in Vue](https://michaelnthiessen.com/composable-patterns-in-vue)
-
-
-## DX
-- [Nuxt Code Snippets (nuppets)](https://github.com/serpcompany/nuxt-code-snippets)
 
 
 ## Nuxt Content
