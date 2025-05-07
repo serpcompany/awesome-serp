@@ -1,6 +1,7 @@
 # SVG Resources
 
 - [github.com/svg](https://github.com/svg)
+- [SVG Essentials & Animation, v2 (course, frontend masters)](https://frontendmasters.com/courses/svg-essentials-animation/)
 - [SVGOMG | Optimize SVG images - Optimize and edit SVGs effortlessly with these powerful and FREE online tools](https://svgomg.net/)
 - [SVGOMG - Powered by SVGO v3.0.0](https://xerocho.github.io/svgomg/)
 - [SVGO.dev and its various integrations will enable you to optimize SVGs and serve your web applications faster.](https://svgo.dev/)
