@@ -21,9 +21,8 @@ Awesome resources for things related to our organization.
   - [video](https://www.udemy.com/course/monorepos-a-beginners-guide/learn/lecture/23143290#overview)
   - [npm docs](https://docs.npmjs.com/cli/v6/configuring-npm/package-json#bin)
 
----
 
-## Link References
+<!-- LINKS -->
 [ai-agents]: https://github.com/serpcompany/awesome-serp/blob/main/ai-agents.md
 [ai-coding]: https://github.com/serpcompany/awesome-serp/blob/main/ai-coding.md
 [freelancers]: https://github.com/serpcompany/awesome-serp/blob/main/freelancers.md
