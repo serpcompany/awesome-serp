@@ -1,14 +1,32 @@
 # Vue / Nuxt Resources
 
+## Components
 - [Nuxt Clean Components Toolkit](https://michaelnthiessen.com/courses/clean-components-toolkit)
-- [Nuxt Code Snippets (nuppets)](https://github.com/serpcompany/nuxt-code-snippets)
-- https://vueschool.io/lessons/intro-why-error-handling-matters-for-developers-and-users
-- [Custom Error Pages in Nuxt 3](https://masteringnuxt.com/blog/custom-error-pages-in-nuxt3)
+
+
+## Data
 - [The Complete Guide to Data Fetching in Nuxt](https://vueschool.io/courses/the-complete-guide-to-data-fetching-in-nuxt)
 - [Nuxt Tip: Validate Data in Your Server Routes](https://mokkapps.de/vue-tips/validate-data-in-your-nuxt-server-routes)
+
+
+## Error Handling
+- [Why Error Handling Matters](https://vueschool.io/lessons/intro-why-error-handling-matters-for-developers-and-users)
+- [Custom Error Pages in Nuxt 3](https://masteringnuxt.com/blog/custom-error-pages-in-nuxt3)
+
+
+## Composables
 - [Composable Design Patterns in Vue](https://michaelnthiessen.com/composable-patterns-in-vue)
 
-## vue/nuxt Performance
+
+## DX
+- [Nuxt Code Snippets (nuppets)](https://github.com/serpcompany/nuxt-code-snippets)
+
+
+## Nuxt Content
+- [Nuxt Content Tutorial: Build an Elegant Blog from Scratch](https://www.youtube.com/watch?v=wW1gePu3Wl8)
+
+
+## Performance
 - [The Lazy component prefix and when to use it (dynamic / lazy load componens)](https://www.youtube.com/watch?v=YbAQC1yetUM&list=PL06MUQt-_wls2sirXbt919cIbGvKv6k5Q&index=3&ab_channel=AlexanderLichter)
 - [Reduce the size of your payload and __NUXT__ ](https://www.youtube.com/watch?v=laRJNkG_wls&list=PL06MUQt-_wls2sirXbt919cIbGvKv6k5Q&index=1&ab_channel=AlexanderLichter)
 - [Speed up your build time with sharedPrerenderData](https://www.youtube.com/watch?v=1jUupYHVvrU&list=PL06MUQt-_wls2sirXbt919cIbGvKv6k5Q&index=3&ab_channel=AlexanderLichter)
