@@ -2,14 +2,14 @@
 
 Awesome resources for things related to our organization.
 
-- AI Agents
-- AI Coding
-- Freelancers
-- Software testing
-- Typescript
-- VSCode
-- Vue/nuxt
-- Zod
+- [AI Agents][ai-agents]
+- [AI Coding][ai-coding]
+- [Freelancers][freelancers]
+- [Software Testing][software-testing]
+- [Typescript][typescript]
+- [VSCode][vscode]
+- [Vue/Nuxt][vue-nuxt]
+- [Zod][zod]
 
 ---
 
@@ -21,4 +21,14 @@ Awesome resources for things related to our organization.
   - [video](https://www.udemy.com/course/monorepos-a-beginners-guide/learn/lecture/23143290#overview)
   - [npm docs](https://docs.npmjs.com/cli/v6/configuring-npm/package-json#bin)
 
+---
 
+## Link References
+[ai-agents]: https://github.com/serpcompany/awesome-serp/blob/main/ai-agents.md
+[ai-coding]: https://github.com/serpcompany/awesome-serp/blob/main/ai-coding.md
+[freelancers]: https://github.com/serpcompany/awesome-serp/blob/main/freelancers.md
+[software-testing]: https://github.com/serpcompany/awesome-serp/blob/main/software-testing.md
+[typescript]: https://github.com/serpcompany/awesome-serp/blob/main/typescript.md
+[vscode]: https://github.com/serpcompany/awesome-serp/blob/main/vscode.md
+[vue-nuxt]: https://github.com/serpcompany/awesome-serp/blob/main/vue-nuxt.md
+[zod]: https://github.com/serpcompany/awesome-serp/blob/main/zod.md
