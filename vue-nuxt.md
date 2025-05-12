@@ -1,17 +1,24 @@
 # Vue / Nuxt Resources
 
+
+
+## Books
+- [Vue Tips Collection - Michael Thieseen.pdf](https://github.com/user-attachments/files/20175478/pdfcoffee.com_vue-michael-thiessen-pdf-4-pdf-free.pdf)
+
+
 ## Components
 - [Nuxt Clean Components Toolkit](https://michaelnthiessen.com/courses/clean-components-toolkit)
 
-
 ## Composables
 - [Composable Design Patterns in Vue](https://michaelnthiessen.com/composable-patterns-in-vue)
-
 
 ## Data
 - [The Complete Guide to Data Fetching in Nuxt](https://vueschool.io/courses/the-complete-guide-to-data-fetching-in-nuxt)
 - [Nuxt Tip: Validate Data in Your Server Routes](https://mokkapps.de/vue-tips/validate-data-in-your-nuxt-server-routes)
 
+## Design Patterns for Vue.js
+- https://github.com/learn-vuejs/vue-patterns
+- [12 Design Patterns in Vue - Michael Thiessen](https://michaelnthiessen.com/12-design-patterns-vue)
 
 ## DX
 - [Nuxt Code Snippets (nuppets)](https://github.com/serpcompany/nuxt-code-snippets)
@@ -33,3 +40,4 @@
 - [My web performance journey with Nuxt, Storyblok & Netlify](https://www.dawntraoz.com/blog/my-web-performance-journey-with-nuxt-storyblok-netlify/)
 - [How to Redirect in Nuxt (Every Single Way)](https://masteringnuxt.com/blog/how-to-redirect-in-nuxt-every-single-way)
 - [Testing components in Nuxt, extract conditional patterns, and more](https://michaelnthiessen.com/weekly-192-november-20)
+
