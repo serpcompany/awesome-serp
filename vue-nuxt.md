@@ -4,6 +4,8 @@
 
 ## Books
 - [Vue Tips Collection - Michael Thieseen.pdf](https://github.com/user-attachments/files/20175478/pdfcoffee.com_vue-michael-thiessen-pdf-4-pdf-free.pdf)
+- [Design Patterns for Vue.js - Lachlan Miller](https://drive.google.com/file/d/1xJ8c3XgWVKGT5ECnjVIjkE3vQo0B8xnB/view?usp=drive_link)
+
 
 
 ## Components
