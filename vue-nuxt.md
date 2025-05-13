@@ -20,6 +20,7 @@
 
 ## Design Patterns for Vue.js
 - https://github.com/learn-vuejs/vue-patterns
+- [Patterns.dev - Vue Design Patterns](https://www.patterns.dev/vue/)
 - [12 Design Patterns in Vue - Michael Thiessen](https://michaelnthiessen.com/12-design-patterns-vue)
 
 ## DX
